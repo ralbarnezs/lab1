@@ -1,0 +1,73 @@
+Id paquete,Tipo,Nombre producto,Valor,Origen,Destino,Numero seguimiento,Fecha ingreso,Estado paquete,Intentos
+00001,Retail,Polera,10,tienda-A,casa-A,BB7918,2020-10-17 17:12:58,Recibido,2
+00002,Prioritario,Secador de pelo,15,pyme,casa-K,HG6041,2020-10-17 17:12:58,Recibido,1
+00003,Retail,Polera,10,tienda-A,casa-A,KL8415,2020-10-17 17:12:58,Recibido,1
+00004,Retail,Pantalón,12,tienda-B,casa-B,TQ5688,2020-10-17 17:12:58,Recibido,1
+00005,Prioritario,Jabón para la ducha,8,pyme,casa-A,JL7805,2020-10-17 17:12:58,No Recibido,1
+00006,Retail,Televisor,110,tienda-C,casa-C,LS7196,2020-10-17 17:12:58,Recibido,2
+00007,Retail,Consola de Videojuegos,95,tienda-A,casa-D,BR5630,2020-10-17 17:12:58,Recibido,1
+00008,Retail,Pantalón,12,tienda-B,casa-B,QP3784,2020-10-17 17:12:58,Recibido,1
+00009,Normal,Acondicionador,10,pyme,casa-A,FP7199,2020-10-17 17:12:58,Recibido,1
+00010,Retail,Lavadora,100,tienda-B,casa-Q,SH8835,2020-10-17 17:12:58,Recibido,1
+00011,Retail,Televisor,110,tienda-C,casa-C,PE5668,2020-10-17 17:12:58,Recibido,1
+00012,Normal,Shampoo,10,pyme,casa-D,BU3636,2020-10-17 17:12:58,Recibido,1
+00013,Retail,Polerón,15,tienda-C,casa-A,QE7473,2020-10-17 17:12:58,Recibido,1
+00014,Retail,Consola de Videojuegos,95,tienda-A,casa-D,GQ3373,2020-10-17 17:12:58,Recibido,2
+00015,Retail,Parca,20,tienda-B,casa-C,VD3312,2020-10-17 17:12:58,Recibido,1
+00016,Prioritario,Crema para peinar,8,pyme,casa-E,OA6703,2020-10-17 17:12:58,Recibido,1
+00017,Prioritario,Placa madre,50,pyme,casa-B,OD5851,2020-10-17 17:12:58,Recibido,1
+00018,Retail,Lavadora,100,tienda-B,casa-Q,LP7005,2020-10-17 17:12:58,Recibido,1
+00019,Normal,Procesador R,75,pyme,casa-N,GU8312,2020-10-17 17:12:58,Recibido,1
+00020,Retail,Pelota,5,tienda-C,casa-P,KB7714,2020-10-17 17:12:58,Recibido,2
+00021,Retail,Polerón,15,tienda-C,casa-A,OC1960,2020-10-17 17:12:58,Recibido,1
+00022,Retail,Parca,20,tienda-B,casa-C,LI9125,2020-10-17 17:12:58,Recibido,1
+00023,Prioritario,Ventilador,10,pyme,casa-N,JI7988,2020-10-17 17:12:58,Recibido,2
+00024,Retail,Pelota,5,tienda-C,casa-P,AJ4722,2020-10-17 17:12:58,Recibido,1
+00025,Retail,Raqueta,20,tienda-A,casa-F,GH0616,2020-10-17 17:12:58,Recibido,1
+00026,Normal,Gabinete,20,pyme,casa-S,GL4453,2020-10-17 17:12:58,Recibido,1
+00027,Retail,Raqueta,20,tienda-A,casa-F,DQ2871,2020-10-17 17:12:58,Recibido,1
+00028,Prioritario,Fuente de poder,25,pyme,casa-P,GE2328,2020-10-17 17:12:58,Recibido,1
+00029,Retail,Refrigerador,120,tienda-B,casa-U,HC6050,2020-10-17 17:12:58,Recibido,1
+00030,Retail,Refrigerador,120,tienda-B,casa-U,SQ7519,2020-10-17 17:12:58,Recibido,3
+00031,Normal,Memoria RAM,22,pyme,casa-R,CT0903,2020-10-17 17:12:58,Recibido,2
+00032,Retail,Tostador,25,tienda-C,casa-A,AQ7052,2020-10-17 17:12:58,Recibido,1
+00033,Retail,Tostador,25,tienda-C,casa-A,JM8656,2020-10-17 17:12:58,Recibido,1
+00034,Retail,Perfume,15,tienda-A,casa-N,KI9217,2020-10-17 17:12:58,Recibido,1
+00035,Normal,Procesador I,90,pyme,casa-N,EM9272,2020-10-17 17:12:58,Recibido,1
+00036,Retail,Perfume,15,tienda-A,casa-N,SD3886,2020-10-17 17:12:58,Recibido,1
+00038,Retail,Tobillera,6,tienda-C,casa-N,VN7306,2020-10-17 17:12:58,Recibido,1
+00039,Retail,Notebook,80,tienda-B,casa-A,KC0029,2020-10-17 17:12:58,Recibido,1
+00040,Prioritario,Tarjeta de video,115,pyme,casa-I,PO0944,2020-10-17 17:12:58,Recibido,1
+00041,Retail,Set de ollas,50,tienda-C,casa-C,UB1760,2020-10-17 17:12:58,Recibido,2
+00042,Prioritario,Set de plumones,9,pyme,casa-C,NV3145,2020-10-17 17:12:58,Recibido,1
+00043,Retail,Notebook,80,tienda-B,casa-A,LD9402,2020-10-17 17:12:58,Recibido,1
+00044,Normal,Cuadernos,5,pyme,casa-C,IC4353,2020-10-17 17:12:58,No Recibido,1
+00045,Retail,Parlante,25,tienda-C,casa-E,RU4906,2020-10-17 17:12:58,Recibido,1
+00046,Retail,Lampara,30,tienda-A,casa-A,KQ4547,2020-10-17 17:12:58,Recibido,1
+00047,Normal,Lapices,4,pyme,casa-I,OV6820,2020-10-17 17:12:58,Recibido,1
+00048,Retail,Set de ollas,50,tienda-C,casa-C,SR7152,2020-10-17 17:12:58,Recibido,3
+00049,Retail,Sillón,105,tienda-C,casa-C,JE9115,2020-10-17 17:12:58,Recibido,1
+00050,Normal,Zapatillas de futbol,16,pyme,casa-E,TD3697,2020-10-17 17:12:58,Recibido,1
+00051,Retail,Parlante,25,tienda-C,casa-E,QU8344,2020-10-17 17:12:58,Recibido,1
+00052,Retail,Mesa,90,tienda-A,casa-S,TE6767,2020-10-17 17:12:58,Recibido,1
+00053,Retail,Lampara,30,tienda-A,casa-A,IC9634,2020-10-17 17:12:58,Recibido,1
+00054,Retail,Cama,115,tienda-B,casa-A,TF4916,2020-10-17 17:12:58,Recibido,1
+00055,Prioritario,Pelota de futbol,11,pyme,casa-V,JK6672,2020-10-17 17:12:58,Recibido,2
+00056,Retail,Sillón,105,tienda-C,casa-C,EL5298,2020-10-17 17:12:58,Recibido,1
+00057,Prioritario,Raqueta de tenis,15,pyme,casa-Z,BS9891,2020-10-17 17:12:58,Recibido,1
+00058,Prioritario,Palo de golf,18,pyme,casa-Y,IA5130,2020-10-17 17:12:58,Recibido,1
+00059,Retail,Mesa,90,tienda-A,casa-S,OV5696,2020-10-17 17:12:58,Recibido,2
+00060,Normal,Polera,9,pyme,casa-F,MD0477,2020-10-17 17:12:58,Recibido,1
+00061,Retail,Cama,115,tienda-B,casa-A,KB3081,2020-10-17 17:12:58,Recibido,1
+00062,Prioritario,Pantalón,11,pyme,casa-C,HQ4232,2020-10-17 17:12:58,Recibido,1
+00063,Normal,Abrigo,17,pyme,casa-U,NK3876,2020-10-17 17:12:58,Recibido,1
+00064,Prioritario,Bufanda,6,pyme,casa-A,MN1460,2020-10-17 17:12:58,Recibido,1
+00065,Normal,Chaqueta,16,pyme,casa-X,RU7243,2020-10-17 17:12:58,Recibido,1
+00066,Prioritario,Sueter,14,pyme,casa-C,MG7241,2020-10-17 17:12:58,Recibido,1
+00067,Normal,Pantalón,10,pyme,casa-A,VM6525,2020-10-17 17:12:58,Recibido,1
+00068,Normal,Polera,7,pyme,casa-Q,UC9404,2020-10-17 17:12:58,Recibido,1
+00069,Normal,Pistachos: 200 g,4,pyme,casa-B,RF4734,2020-10-17 17:12:58,Recibido,1
+00070,Normal,Mani: 1 Kg,5,pyme,casa-A,JQ9459,2020-10-17 17:12:58,Recibido,1
+00071,Normal,Almendras: 500 g,5,pyme,casa-L,JL1593,2020-10-17 17:12:58,No Recibido,1
+00072,Normal,Chia: 500 g,6,pyme,casa-D,DK2572,2020-10-17 17:12:58,Recibido,1
+00073,Prioritario,Arroz: 1 Kg,3,pyme,casa-C,BR9705,2020-10-17 17:12:58,Recibido,1

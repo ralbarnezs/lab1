@@ -1,0 +1,62 @@
+syntax = "proto3";
+package logistica;
+
+//servicio de envio paquete
+
+service  Paquete{
+    rpc EnviarPaquete (PaqueteRequest) returns (PaqueteResponse);
+    rpc SeguimientoPaquete (SeguimientoRequest) returns (SeguimientoResponse);
+    rpc SolicitudPaquete(RepartoRequest) returns (RepartoResponse);
+    rpc InformeReparto(InformeRequest) returns (InformeResponse);
+}
+
+
+// Definimos el request del enviopaquete
+message PaqueteRequest {
+    string idPaquete = 1;
+    int32 tipo = 2; //0=es retail, 1=pyme, 2=prioritario
+    string nombre = 3;//nombre producto
+    int32 valor = 4; 
+    string origen = 5;
+    string destino = 6;
+  }
+  
+  // Definimos el response del enviopaquete
+  message PaqueteResponse {
+    string numSeguimiento = 1;
+  }
+
+
+  //definimos el request del servicio de seguimiento del paquete
+  message SeguimientoRequest{
+      string numSeguimiento = 1;
+  }
+  //definimos el response del servicio de seguimiento del paquete
+  message SeguimientoResponse{
+      string estado = 1;
+  }
+
+
+message InformeRequest{
+    string id = 1;
+    bool entregado = 2;
+}
+
+message InformeResponse{
+    bool recibido = 1;
+}
+
+
+
+message RepartoRequest{
+    int32 idCamion = 1;
+}
+
+message RepartoResponse{
+    string id = 1;
+    int32 tipo = 2; //0=es retail, 1=pyme, 2=prioritario
+    int32 valor = 3; 
+    string origen = 5;
+    string destino = 6;
+    int32 intento = 7;
+}
