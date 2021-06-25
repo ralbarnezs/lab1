@@ -1,3 +1,13 @@
+#Laboratory 1
+
+## Description
+This is a laboratory of the Distributed Systems course(INF-343).
+
+## About
+
+ This lab aims to apply both gRPC with protocol buffers as well as RabbitMQ to simulate the operation of a distributed packet system. All this will be done in golang programming language.
+ 
+ 
 # Implementacion y detalles
 
 
