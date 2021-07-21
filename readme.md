@@ -1,7 +1,5 @@
 # Laboratory 1
 
-## Description
-This is a laboratory of the Distributed Systems course(INF-343).
 
 ## About
 
